@@ -1,5 +1,7 @@
 # ECMAScript Explicit Resource Management
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 This proposal intends to address a common pattern in software development regarding
 the lifetime and management of various resources (memory, I/O, etc.). This pattern
 generally includes the allocation of a resource and the ability to explicitly 
